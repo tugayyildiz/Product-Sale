@@ -1,0 +1,14 @@
+C:\Users\Tugay YILDIZ\source\repos\eticaret\eticaret\bin\Debug\eticaret.exe.config
+C:\Users\Tugay YILDIZ\source\repos\eticaret\eticaret\bin\Debug\eticaret.exe
+C:\Users\Tugay YILDIZ\source\repos\eticaret\eticaret\bin\Debug\eticaret.pdb
+C:\Users\Tugay YILDIZ\source\repos\eticaret\eticaret\obj\Debug\eticaret.csprojAssemblyReference.cache
+C:\Users\Tugay YILDIZ\source\repos\eticaret\eticaret\obj\Debug\eticaret.girisEkran.resources
+C:\Users\Tugay YILDIZ\source\repos\eticaret\eticaret\obj\Debug\eticaret.Properties.Resources.resources
+C:\Users\Tugay YILDIZ\source\repos\eticaret\eticaret\obj\Debug\eticaret.csproj.GenerateResource.cache
+C:\Users\Tugay YILDIZ\source\repos\eticaret\eticaret\obj\Debug\eticaret.csproj.CoreCompileInputs.cache
+C:\Users\Tugay YILDIZ\source\repos\eticaret\eticaret\obj\Debug\eticaret.exe
+C:\Users\Tugay YILDIZ\source\repos\eticaret\eticaret\obj\Debug\eticaret.pdb
+C:\Users\Tugay YILDIZ\source\repos\eticaret\eticaret\obj\Debug\eticaret.musteri_ekle_form.resources
+C:\Users\Tugay YILDIZ\source\repos\eticaret\eticaret\obj\Debug\eticaret.urun_ekle_form.resources
+C:\Users\Tugay YILDIZ\source\repos\eticaret\eticaret\obj\Debug\eticaret.satis_form.resources
+C:\Users\Tugay YILDIZ\source\repos\eticaret\eticaret\obj\Debug\eticaret.rapor_form.resources
